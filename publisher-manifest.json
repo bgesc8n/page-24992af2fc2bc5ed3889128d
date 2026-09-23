@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c3133d06ad42c826411876a6",
+  "owner": "bgesc8n",
+  "repo": "page-24992af2fc2bc5ed3889128d",
+  "title": "影子",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "24992af2fc2bc5ed3889128d",
+      "a": "影子",
+      "b": "2027官方最新地址导航",
+      "entity": "影子",
+      "brand": "影子",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9f95e063a33e3724995eab7d7867fd2620f1ae96dd9cf78fb98516cb5d7cdef9",
+      "content": {
+        "primary_entity": "影子",
+        "keyword1": "影子",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅后即可使用，具体兼容情况以客户端文档为准。",
+          "AI_CLIENTS_TITLE": "客户端选配",
+          "AI_CLOSING_TEXT": "按设备数与流量需求选定档位，参照客户端文档完成导入，即可开始使用影子加速。",
+          "AI_CLOSING_TITLE": "选好套餐，配置订阅",
+          "AI_DESCRIPTION": "，以订阅制提供跨区域网络加速，方便访问海外流媒体、游戏与常用站点。套餐按流量与设备数分为基础、旗舰和团队三档，月付最低 ¥15，年付方案折算更划算。客户端覆盖常见的桌面与移动系统，导入订阅后即可切换节点，适合个人多设备协同与小型团队共用。",
+          "AI_FEATURES_INTRO": "对照流量、设备数与线路类型，挑选适合当下使用习惯的档位。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版最高 20 台，依据常用设备数选择即可。",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，轻度浏览与高清观看需求可分别对应。",
+          "AI_FEATURE_TEXT_3": "同一档位支持月付或按年付，年付折算后基础版约 ¥150/年，旗舰版约 ¥350/年，团队版约 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "按设备数量匹配",
+          "AI_FEATURE_TITLE_2": "流量按需挑档",
+          "AI_FEATURE_TITLE_3": "订阅周期与成本",
+          "AI_GUIDE_INTRO": "从选套餐到开始使用，按三步完成配置。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "影子是一款面向海外访问的加速订阅产品，按流量和同时在线设备数划分套餐，月付与年付灵活可选。通过客户端导入订阅链接，即可在电脑、手机与路由器上使用。",
+          "AI_HERO_SUBTITLE": "按需订阅，多端加速",
+          "AI_HIGHLIGHT_1": "月付最低 ¥15 起",
+          "AI_HIGHLIGHT_2": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_3": "多端客户端可选配",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数、线路与支持上逐级提升，可先看差异再决定周期。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数量，在基础版、旗舰版与团队版中挑选合适的订阅。",
+          "AI_STEP_TEXT_2": "查看所选客户端对操作系统版本和网络环境的要求，确认设备可正常安装后再继续。",
+          "AI_STEP_TEXT_3": "获取订阅信息后，依照对应客户端的配置文档完成导入，即可切换节点开始使用。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "影子加速，订阅即用",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线；团队版每月 1000GB、支持 20 台设备，按使用人数与流量需求选择即可。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线，按家庭成员或团队人数选择合适档位。",
+          "AI_FAQ_ANSWER_3": "基础版解锁基础流媒体，旗舰版与团队版支持全节点原生流媒体解锁，有 4K 流媒体需求可选择旗舰版及以上。",
+          "AI_FAQ_ANSWER_4": "三个套餐都提供按年付选项：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用比月付节省约两个月费用。",
+          "AI_FAQ_ANSWER_5": "在客户端应用中导入订阅链接，Windows 与 macOS 使用桌面客户端，Android 与 iOS 使用移动端应用，路由器可手动配置订阅地址。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版的主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "每个套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "哪个套餐支持全节点流媒体解锁？",
+          "AI_FAQ_QUESTION_4": "年付价格与月付相比能省多少？",
+          "AI_FAQ_QUESTION_5": "如何在客户端配置影子订阅？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shangliubao.cn",
+    "host": "shangliubao.cn"
+  },
+  "file_hashes": {
+    "index.html": "19c48a8fd1b510dfd39d0ccb105f741c2083c696ab6bc9567439ce717fbfaea8",
+    "sitemap.xml": "73d901944a84b737be23249acbd8d91be58e28f42e4c398945b58925cfb9349b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "168f5448938bfab470ea02c12bd4d3fc603479c6f5ade8ffe6dc4ec542bafeb6",
+    "robots.txt": "ae97817dc09657a542bbe4a894fd5408c2fde4c52e362a57195f388606e94bba",
+    "8a3fcd0e7dc7ef07f9759c0303786071.txt": "3dde4e54a311b091b776f0018f802ce92d973345100fa03de3d37be68373182a"
+  },
+  "revision": "bd936e3bb80f1eaff3748d893b2ba66f218a8a4c89138619990bfde165bbcb39"
+}
